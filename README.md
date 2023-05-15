@@ -8,6 +8,9 @@ The metrics used to evalute the model are:
   MSE
   MAPE
   R^2
+The next future values of 60 are also predicted to check the validity of the model.  
+  
+  
 
 
   
